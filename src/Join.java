@@ -4,4 +4,5 @@ public class Join {
 	
 	//기능2
 
+	//기능3
 }
